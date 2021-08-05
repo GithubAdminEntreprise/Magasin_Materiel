@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<repertoire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<affaire numero_affaire="P.0126854.1.0854456">
+		<reference>TRM 80021</reference>
+		<designation>Scotch 3M</designation>
+		<total_unitaire>1</total_unitaire>
+		<nom>THIERRY</nom>
+		<date>27/01/21 16:04</date>
+	</affaire>
+	<affaire numero_affaire="P.0126854.1.085645645">
+		<reference>WUR 0046 5 16</reference>
+		<designation>Vis TR 5X16</designation>
+		<total_unitaire>20</total_unitaire>
+		<nom>CYRIL</nom>
+		<date>29/01/21 10:26</date>
+	</affaire>
+</repertoire>

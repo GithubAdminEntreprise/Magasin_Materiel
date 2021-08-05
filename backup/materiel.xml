@@ -1,0 +1,14 @@
+<repertoire>
+	<materiel reference="1111250000">
+		<designation>CC 15/45 K MC NE WS</designation>
+		<stock>50</stock>
+		<quantite_minimum_de_sortie>1</quantite_minimum_de_sortie>
+		<alerte_fin_stock>49</alerte_fin_stock>
+	</materiel>
+	<materiel reference="1289200000">
+		<designation>Embases Autocollantes 19/19</designation>
+		<stock>50</stock>
+		<quantite_minimum_de_sortie>1</quantite_minimum_de_sortie>
+		<alerte_fin_stock>49</alerte_fin_stock>
+	</materiel>
+</repertoire>
