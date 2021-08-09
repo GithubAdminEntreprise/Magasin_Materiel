@@ -658,7 +658,7 @@ class PageAdmin(tk.Frame):
         #envoi d'un mail avec tout les fichiers en PJ
         global mail_user
         controller.send_mail(send_from= mail_systeme,
-        subject= "Sauvegarde " + nom_magasin +" - " + strftime("%d/%m/%y %H:%M"),
+        subject= "Sauvegarde - " + nom_magasin + " - " + strftime("%d/%m/%y %H:%M"),
         text="",
         send_to= mail_systeme,
         files= [path_prog + 'sortie.xml',path_prog + 'materiel.xml', path_prog + 'personnel.xml', path_prog + 'log.txt', path_prog + 'config.ini'])
